@@ -1,3 +1,0 @@
-/home/lichen/CLionProjects/C_Practice_On_Linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lichen/CLionProjects/C_Practice_On_Linux/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lichen/CLionProjects/C_Practice_On_Linux/cmake-build-debug/CMakeFiles/C_Practice_On_Linux.dir
